@@ -1,537 +1,537 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/mattsegura/ROS-/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/advice/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/advice/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ai-projects/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ai-projects/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/apt/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/apt/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/arduino/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/arduino/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/aws/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/aws/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/battlesnake/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/battlesnake/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/beaglebone/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/beaglebone/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/blinkt/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/blinkt/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/clang/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/clang/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/coding-resources/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/coding-resources/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/codingame/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/codingame/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/cpx/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/cpx/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/cricket/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/cricket/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/databases/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/databases/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/docker/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/docker/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/education-robots/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/education-robots/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/education-software/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/education-software/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/etcd/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/etcd/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/euclid/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/euclid/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ev3-admin/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ev3-admin/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ev3-python/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ev3-python/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ev3-ros/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ev3-ros/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/faas/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/faas/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/flutter/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/flutter/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/frc-networking/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/frc-networking/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/frc-notes/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/frc-notes/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/gazebo/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/gazebo/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/git/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/git/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/go-admin/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/go-admin/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/gopigo/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/gopigo/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/gradle/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/gradle/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/grafana/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/grafana/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/graphql/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/graphql/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/grpc/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/grpc/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/history/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/history/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/hoc/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/hoc/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/interesting/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/interesting/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/istio/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/istio/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/java/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/java/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/jetsontx2/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/jetsontx2/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/joystick/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/joystick/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/jupyter-options/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/jupyter-options/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/jupyter/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/jupyter/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/kotlin-examples/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/kotlin-examples/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/kotlin/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/kotlin/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/kubernetes/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/kubernetes/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/learning-python/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/learning-python/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/light-sweep/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/light-sweep/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/linux/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/linux/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/magni/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/magni/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/markdown/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/markdown/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/metro-mini/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/metro-mini/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/microbit/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/microbit/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/mkdocs/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/mkdocs/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ml/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ml/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/mqtt-broker/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/mqtt-broker/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/mqtt-client/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/mqtt-client/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/nand2tetris/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/nand2tetris/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/nginx/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/nginx/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/opencv/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/opencv/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/operations/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/operations/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/osx-setup/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/osx-setup/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/overview/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/overview/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/plotly/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/plotly/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/prometheus/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/prometheus/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/pycharm/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/pycharm/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/pyqt5/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/pyqt5/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/python-basics/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/python-basics/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/python-conditionals/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/python-conditionals/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/python-dictionaries/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/python-dictionaries/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/python-functions/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/python-functions/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/python-iterations/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/python-iterations/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/python-lists/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/python-lists/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/python-packages/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/python-packages/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/python-setup/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/python-setup/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/python/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/python/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/raspbian/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/raspbian/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/raspihats/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/raspihats/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/raspipizero/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/raspipizero/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/repl1/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/repl1/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/robomaker/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/robomaker/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/roborio/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/roborio/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/robotics/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/robotics/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ros-commands/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ros-commands/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ros-installation/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ros-installation/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ros-master/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ros-master/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ros-misc/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ros-misc/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ros-serial/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ros-serial/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/sd-cards/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/sd-cards/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/sensors/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/sensors/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/services/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/services/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/shell/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/shell/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/software-links/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/software-links/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ssh/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ssh/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/teacher-hoc/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/teacher-hoc/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/teaching/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/teaching/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/trainyourrobot/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/trainyourrobot/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/trellis/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/trellis/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/turtle-graphics/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/turtle-graphics/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/turtlebot3/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/turtlebot3/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/ubuntu/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/ubuntu/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/unix/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/unix/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/vim/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/vim/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/webcontent/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/webcontent/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/webservices/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/webservices/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/mattsegura/ROS-/xquartz/</loc>
+         <loc>https://mattsegura.github.io/LSCRMC-Docs/xquartz/</loc>
          <lastmod>2022-04-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
