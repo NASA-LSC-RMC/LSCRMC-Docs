@@ -1,20 +1,10 @@
 nav:
   - Home: index.md
-  - Hours Tracking: operations.md
+  # - Hours Tracking: operations.md
   - Github Repos:
-      - FRC Robotics: https://github.com/athenian-robotics
-      - Programming Tutorials: https://github.com/athenian-programming
-  - Coding Resources: coding-resources.md
+      - LSC-RMC Robotics: https://github.com/mattsegura/ROS-
+  # - Coding Resources: coding-resources.md
   - Languages:
-      - Python:
-          - Learning: learning-python.md
-          - Exercises:
-              - Basics: python-basics.md
-              - Conditionals: python-conditionals.md
-          - Lists: python-lists.md
-          - Dictionaries: python-dictionaries.md
-          - Iterations: python-iterations.md
-          - Functions: python-functions.md
       - Setup: python-setup.md
       - Posts: python.md
       - Kotlin: kotlin.md
@@ -66,11 +56,9 @@ nav:
       - XQuartz: xquartz.md
       - AI Projects: ai-projects.md
   - Hardware:
-      - Raspberry Pi Zero W: raspipizero.md
       - Raspi Hats: raspihats.md
       - Sensors: sensors.md
       - SD Cards: sd-cards.md
-      - Arduino: arduino.md
       - Metro Mini: metro-mini.md
       - Blinkt: blinkt.md
       - Logitech Joystick: joystick.md
@@ -86,39 +74,26 @@ nav:
       - Shell: shell.md
       - Machine Learning: ml.md
   - Robots:
-      - Magni: magni.md
       - TurtleBot3: turtlebot3.md
-      - GoPiGo: gopigo.md
-      - EV3:
-          - Admin: ev3-admin.md
-          - Python: ev3-python.md
-          - ROS: ev3-ros.md
-  - FRC:
+  - NASA-RMC:
       - Notes: frc-notes.md
       - Networking: frc-networking.md
-  - Battlesnake: battlesnake.md
-  - Robotics: robotics.md
-  - CodinGame Tips: codingame.md
-  - Hour of Code: hoc.md
-  - Nand2Tetris: nand2tetris.md
+  # - Robotics: robotics.md
   - Education:
-      - Robots: education-robots.md
-      - Software: education-software.md
       - Teaching: teaching.md
-  - Overview: overview.md
   - Advice: advice.md
   - Miscellaneous: interesting.md
 
-site_name: Athenian FRC Robotics
-site_url: https://www.athenian-robotics.org
-site_description: Athenian FRC Robotics Documentation
-site_author: Athenian FRC Robotics Team
+site_name: Lonestar NASA-RMC Robotics
+site_url: https://github.com/mattsegura/ROS-
+site_description: Lonestar NASA-RMC Robotics Documentation
+site_author: Lonestar NASA-RMC Robotics Team
 
-repo_url: https://github.com/athenian-robotics/athenian-robotics-mkdocs
-repo_name: 'GitHub Home'
+repo_url: https://github.com/mattsegura/ROS-
+repo_name: "GitHub Home"
 
 theme:
-  name: 'material'
+  name: "material"
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
@@ -131,8 +106,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: 'images/owls.jpg'
-  favicon: 'assets/images/favicon.ico'
+  logo: "images/lsc.jpg"
+  favicon: "assets/images/favicon.ico"
 
 markdown_extensions:
   - admonition
@@ -157,5 +132,4 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-google_analytics: [ 'UA-90285378-1', 'auto' ]
-
+google_analytics: ["UA-90285378-1", "auto"]
