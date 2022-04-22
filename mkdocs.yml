@@ -1,9 +1,7 @@
 nav:
   - Home: index.md
-  # - Hours Tracking: operations.md
   - Github Repos:
       - LSC-RMC Robotics: https://github.com/mattsegura/ROS-
-  # - Coding Resources: coding-resources.md
   - Languages:
       - Setup: python-setup.md
       - Posts: python.md
@@ -89,7 +87,7 @@ site_url: https://mattsegura.github.io/LSCRMC-Docs/
 site_description: Lonestar NASA-RMC Robotics Documentation
 site_author: Lonestar NASA-RMC Robotics Team
 
-repo_url: https://github.com/mattsegura/ROS-
+repo_url: https://github.com/mattsegura/LSCRMC-Docs
 repo_name: "GitHub Home"
 
 theme:
