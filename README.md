@@ -17,3 +17,5 @@
 ### To-do
 
 1. Add a countdown timer
+
+(Website Link)[https://mattsegura.github.io/LSCRMC-Docs/]
