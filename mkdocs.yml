@@ -1,12 +1,12 @@
 nav:
   - Home: index.md
   - Github Repos:
-      - LSC-RMC Robotics: https://github.com/mattsegura/ROS-
+      - LSC-RMC Organization: https://github.com/NASA-LSC-RMC 
   - Languages:
       - Setup: python-setup.md
       - Posts: python.md
-      - Kotlin: kotlin.md
-      - C: clang.md
+    
+
   - Operating Systems:
       - OSX: osx-setup.md
       - Linux:
@@ -58,7 +58,7 @@ nav:
       - TurtleBot3: turtlebot3.md
   - NASA-RMC:
       - Notes: frc-notes.md
-      - Networking: frc-networking.md
+      - Networking: rmc-networking.md
   # - Robotics: robotics.md
   - Education:
       - Teaching: teaching.md
